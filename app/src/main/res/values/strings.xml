@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="actualScore">SCORE</string>
+    <string name="scorePrompt">You\'re score is:</string>
+</resources>
